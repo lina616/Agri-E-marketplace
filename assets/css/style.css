@@ -1,0 +1,32 @@
+body {
+    background: #f8f9fa;
+    font-family: 'Segoe UI', Arial, sans-serif;
+}
+
+.navbar-brand {
+    font-weight: bold;
+    color: #27ae60 !important;
+}
+
+.card {
+    min-height: 420px;
+    box-shadow: 0 4px 8px rgba(39, 174, 96, 0.07);
+}
+
+footer {
+    background: #e9ecef;
+    padding: 1em 0;
+}
+
+h2, h3, h4 {
+    color: #218c53;
+}
+
+.btn-success {
+    background-color: #27ae60;
+    border: none;
+}
+
+.btn-success:hover {
+    background-color: #219150;
+}
